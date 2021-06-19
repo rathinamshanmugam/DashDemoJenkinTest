@@ -15,7 +15,14 @@ namespace UnitTestProject
 
             Assert.False(result, $"{value} should not be prime");
         }
+        [Fact]
+        public void Test2()
+        {
+            int value = 4;
+            var result = IsPrime(value);
 
+            Assert.False(result, $"{value} should not be prime");
+        }
         public bool IsPrime(int candidate)
         {
             if (candidate < 2)
