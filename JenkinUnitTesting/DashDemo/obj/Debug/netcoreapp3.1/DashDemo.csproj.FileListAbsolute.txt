@@ -8,7 +8,6 @@ C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\Dash
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\DashDemo.pdb
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\DashDemo.Views.dll
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\DashDemo.Views.pdb
-C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.csprojAssemblyReference.cache
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.AssemblyInfoInputs.cache
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.AssemblyInfo.cs
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.csproj.CoreCompileInputs.cache
@@ -35,3 +34,11 @@ C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\Dash
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.pdb
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.genruntimeconfig.cache
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.csproj.CopyComplete
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.csprojAssemblyReference.cache

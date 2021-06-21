@@ -183,7 +183,6 @@ C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\bin\Debug\netcoreapp3
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.csprojAssemblyReference.cache
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.AssemblyInfoInputs.cache
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.AssemblyInfo.cs
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.csproj.CoreCompileInputs.cache
@@ -191,3 +190,4 @@ C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.dll
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.pdb
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.genruntimeconfig.cache
+C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.csprojAssemblyReference.cache
