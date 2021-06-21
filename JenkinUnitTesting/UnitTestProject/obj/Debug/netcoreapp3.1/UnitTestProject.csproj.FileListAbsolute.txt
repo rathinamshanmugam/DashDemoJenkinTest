@@ -190,4 +190,3 @@ C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.dll
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.pdb
 C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.genruntimeconfig.cache
-C:\GitHub - Unit Testing\JenkinUnitTesting\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.csprojAssemblyReference.cache

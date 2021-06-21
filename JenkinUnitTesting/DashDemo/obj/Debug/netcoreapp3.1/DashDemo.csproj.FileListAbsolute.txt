@@ -34,4 +34,3 @@ C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\Dash
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.pdb
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.genruntimeconfig.cache
 C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.csproj.CopyComplete
-C:\GitHub - Unit Testing\JenkinUnitTesting\DashDemo\obj\Debug\netcoreapp3.1\DashDemo.csprojAssemblyReference.cache
