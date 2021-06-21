@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jrTpDhi5eXLFkmhPF0aaw+nZVktFZqJSc2brjxHO/30ZjYYqRtR9j2IuQQ8fmnkJ2dNguTjYCZU4QhEXr6seMQ==",
+  "dgSpecHash": "LAgDYrTL3HZQtyBpFLqh7pzTZFiUfXaX2YiNEWyJTYCdk1f+/5kxQXWENY+tPKl8yRxT9ebBztCB8vYfaZWNJw==",
   "success": true,
   "projectFilePath": "C:\\GitHub - Unit Testing\\JenkinUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,8 @@
     "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512",
+    "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\opencovertocoberturaconverter\\0.3.4\\opencovertocoberturaconverter.0.3.4.nupkg.sha512",
     "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
