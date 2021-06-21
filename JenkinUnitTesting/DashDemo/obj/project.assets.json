@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub - Unit Testing\\JenkinUnitTesting\\DashDemo\\DashDemo.csproj",
+      "projectUniqueName": "C:\\GitHub - Unit Testing-R1\\DashDemoJenkinTest\\JenkinUnitTesting\\DashDemo\\DashDemo.csproj",
       "projectName": "DashDemo",
-      "projectPath": "C:\\GitHub - Unit Testing\\JenkinUnitTesting\\DashDemo\\DashDemo.csproj",
+      "projectPath": "C:\\GitHub - Unit Testing-R1\\DashDemoJenkinTest\\JenkinUnitTesting\\DashDemo\\DashDemo.csproj",
       "packagesPath": "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub - Unit Testing\\JenkinUnitTesting\\DashDemo\\obj\\",
+      "outputPath": "C:\\GitHub - Unit Testing-R1\\DashDemoJenkinTest\\JenkinUnitTesting\\DashDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rathinam Shanmugam\\AppData\\Roaming\\NuGet\\NuGet.Config",

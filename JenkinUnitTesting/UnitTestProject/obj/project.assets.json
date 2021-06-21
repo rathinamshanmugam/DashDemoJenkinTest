@@ -5685,11 +5685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub - Unit Testing\\JenkinUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
+      "projectUniqueName": "C:\\GitHub - Unit Testing-R1\\DashDemoJenkinTest\\JenkinUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
       "projectName": "UnitTestProject",
-      "projectPath": "C:\\GitHub - Unit Testing\\JenkinUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
+      "projectPath": "C:\\GitHub - Unit Testing-R1\\DashDemoJenkinTest\\JenkinUnitTesting\\UnitTestProject\\UnitTestProject.csproj",
       "packagesPath": "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub - Unit Testing\\JenkinUnitTesting\\UnitTestProject\\obj\\",
+      "outputPath": "C:\\GitHub - Unit Testing-R1\\DashDemoJenkinTest\\JenkinUnitTesting\\UnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rathinam Shanmugam\\AppData\\Roaming\\NuGet\\NuGet.Config",
