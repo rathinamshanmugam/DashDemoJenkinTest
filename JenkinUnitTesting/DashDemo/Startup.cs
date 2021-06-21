@@ -38,6 +38,7 @@ namespace DashDemo
             }
             app.UseStaticFiles();
 
+            if (xml)
             app.UseRouting();
 
             app.UseAuthorization();
