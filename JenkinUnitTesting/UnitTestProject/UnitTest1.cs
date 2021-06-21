@@ -18,7 +18,7 @@ namespace UnitTestProject
         [Fact]
         public void Test2()
         {
-            int value = 2;
+            int value = 1;
             var result = IsPrime(value);
 
             Assert.False(result, $"{value} should not be prime");
